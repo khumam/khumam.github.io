@@ -1,0 +1,34 @@
+:host {
+    display: block;
+    margin: 1rem auto;
+    max-width: 205px;
+    line-height: 1
+}
+
+:host div {
+    display: -webkit-box;
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    justify-content: center
+}
+
+:host a {
+    margin: 3px;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 1rem;
+    background-size: 60px !important;
+    font-size: 1.5rem;
+    cursor: pointer;
+    -webkit-transition: -webkit-transform .15s;
+    transition: -webkit-transform .15s;
+    transition: transform .15s;
+    transition: transform .15s, -webkit-transform .15s
+}
+
+:host a.current,
+:host a:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1)
+}
