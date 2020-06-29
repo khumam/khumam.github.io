@@ -79,9 +79,9 @@
     
     
     
-      <category term="Books" scheme="http://khoerulumam.now.sh/tags/Books/"/>
-    
       <category term="Review" scheme="http://khoerulumam.now.sh/tags/Review/"/>
+    
+      <category term="Books" scheme="http://khoerulumam.now.sh/tags/Books/"/>
     
   </entry>
   
@@ -150,9 +150,9 @@
       <category term="Review" scheme="http://khoerulumam.now.sh/categories/Review/"/>
     
     
-      <category term="Review" scheme="http://khoerulumam.now.sh/tags/Review/"/>
-    
       <category term="Movies" scheme="http://khoerulumam.now.sh/tags/Movies/"/>
+    
+      <category term="Review" scheme="http://khoerulumam.now.sh/tags/Review/"/>
     
   </entry>
   
